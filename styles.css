@@ -1,11 +1,20 @@
+html{
+ background-color: black;
+}
 img {
     width:  200px;
     
 }
 body 
  { text-align: center; 
-    font-family: "arial"
+   font-family: "arial";
+   color: blue;
     }
 h1 
- { text-decoration: underline
+ { text-decoration: underline;
+ color: red;
+ }
+ 
+ .center{
+  left: 50%;
  }
